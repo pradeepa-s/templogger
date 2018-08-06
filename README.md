@@ -23,3 +23,4 @@ Added JTAG schematic
 
 06-08-2018
 Added user led
+Added microSD card
