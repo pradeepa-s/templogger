@@ -30,3 +30,4 @@ Added unified library
 
 08-08-2018
 Editing unified library
+Added temperature sensor
