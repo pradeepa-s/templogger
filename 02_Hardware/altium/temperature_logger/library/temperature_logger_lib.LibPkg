@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IAVHWAIS
+DocumentUniqueId=
 
 [Document2]
 DocumentPath=temperature_logger_lib\temperature_logger_lib.SchLib
