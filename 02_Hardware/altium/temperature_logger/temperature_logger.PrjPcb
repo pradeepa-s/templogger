@@ -106,7 +106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LGUPRUMA
 
 [Document5]
-DocumentPath=temperature_logger_pcb.PcbDoc
+DocumentPath=temperature_logger_pcb_v3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,6 +124,23 @@ DocumentUniqueId=HFMKDJUY
 
 [Document6]
 DocumentPath=library\temperature_logger_lib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=temperature_logger_pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
