@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TICBQNVP
+DocumentUniqueId=
 
 [SearchPath1]
 Path=I:\my_projects\temperature_logger\templogger\02_Hardware\altium\temperature_logger\library\temperature_logger_lib\*.*
